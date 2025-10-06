@@ -12,11 +12,11 @@ def subtract(a, b):
     return a - b
 
 def multiply(a, b):
-    """Multiply two numbers with input validation and logging."""
+    """Multiply two numbers."""
     return a*b
 
 def divide(a, b):
-    """Divide a by b with enhanced error handling."""
+    """Divide a by b."""
     return a/b
 
 # TODO: Students will add multiply, divide, power, sqrt functions
